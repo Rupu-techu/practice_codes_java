@@ -18,6 +18,7 @@ Prepare for technical interviews and campus placements
 Develop coding discipline without IDE dependency
 
 📚 Topics Covered
+
 🔹 Core Programming
 
 Variables and Data Types
